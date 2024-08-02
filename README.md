@@ -125,4 +125,3 @@ GitHub: https://github.com/ImOnF1r3
 
 This tool is intended for educational and research purposes only. Use it responsibly and only on websites for which you have permission.
 
-Translated with DeepL.com (free version)
