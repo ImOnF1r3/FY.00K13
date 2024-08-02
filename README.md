@@ -57,7 +57,8 @@ Esempi di Utilizzo con PicoCTF (http://mercury.picoctf.net:17781/):
 
 - Estrai i Cookie da una Pagina Web:
 
-  python edit_C00K13.py -u http://mercury.picoctf.net:17781/ -ext
+```
+python edit_C00K13.py -u http://mercury.picoctf.net:17781/ -ext
 
 Esempio di Output:
 
@@ -88,10 +89,12 @@ Welcome to my cookie search page. See how much I like different kinds of cookies
 
 © PicoCTF
 ----------------------------------------
+```
 
 - Inietta Cookie Personalizzati:
 
-  python edit_C00K13.py -u http://mercury.picoctf.net:17781/ -inj -c "name=18"
+```
+python edit_C00K13.py -u http://mercury.picoctf.net:17781/ -inj -c "name=18"
 
 Esempio di Output:
 
@@ -113,6 +116,7 @@ Flag: picoCTF{Check The CTF on PicoCTF}
 
 © PicoCTF
 ----------------------------------------
+```
 
 Crediti:
 
