@@ -22,9 +22,10 @@ Installation:
 1. Clone the repository:
 
    [git clone https://github.com/ImOnF1r3/cookie-extractor.git](https://github.com/ImOnF1r3/FY.00K13.git)
+   
    cd FY.00K13
 
-2. Install the requirements:
+3. Install the requirements:
 
    Use pip to install the required libraries. It is recommended to use a virtual environment:
 
