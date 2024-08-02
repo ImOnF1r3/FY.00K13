@@ -21,7 +21,7 @@ Installation:
 
 1. Clone the repository:
 
-   [git clone https://github.com/ImOnF1r3/cookie-extractor.git](https://github.com/ImOnF1r3/FY.00K13.git)  
+   git clone https://github.com/ImOnF1r3/cookie-extractor.git
    cd FY.00K13
 
 3. Install the requirements:
@@ -121,7 +121,6 @@ Flag: picoCTF{Check The CTF on PicoCTF}
 Credits:
 
 Author: ImOnF1r3
-GitHub: https://github.com/ImOnF1r3
 
 This tool is intended for educational and research purposes only. Use it responsibly and only on websites for which you have permission.
 
